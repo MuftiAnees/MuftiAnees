@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuftiAnees
 - 👀 I’m interested in coding, graphics and UI/UX Designing.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python 🐍
 
 <!---
 MuftiAnees/MuftiAnees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
