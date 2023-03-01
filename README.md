@@ -1,4 +1,4 @@
-- # This profile is still under construction 🏗...<br>
+# This profile is still under construction 🏗...<br>
 - 👋 Hi, I’m @MuftiAnees
 - I am a Software Quality Assurance Engineer
 - 👀 I’m interested in coding, graphics and UI/UX Designing with alot of experience in Photoshop, Illustrator, Figma etc.
