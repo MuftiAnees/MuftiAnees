@@ -1,4 +1,7 @@
 # This profile is still under construction 🏗...<br>
+
+<img src='https://i.pinimg.com/originals/ef/43/4d/ef434dc828e08a64486118f937bf50fe.gif' alt='construction meme gif'>
+
 - 👋 Hi, I’m @MuftiAnees
 - 💻I am a Software Quality Assurance Engineer
 - 🌱 I’m currently learning Automation(Primarily Selenium), Web Dev and Python 🐍
@@ -20,10 +23,6 @@
 <img src='images\React.png' width=15% alt='React JS Logo'>
 <img src='images\React.png' width=15% alt='React Native Logo'>
 <img src='images\jira.png' width=15% alt='JIRA Logo'>
-!-->
-
-<!--  ICONS MISSING
- 
 <img src='images\Selenium_Logo.png' alt='Latex Logo'>
 <img src='images\Selenium_Logo.png' alt='J Meter Logo'>
 <img src='images\Selenium_Logo.png' alt='Joget Logo'>
