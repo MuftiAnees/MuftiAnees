@@ -1,6 +1,7 @@
 # This profile is still under construction 🏗...<br>
 
-<img src='images/construction.gif' align:center alt='construction meme gif'>
+<img src='images/construction.gif' alt='construction meme gif'>
+
 - 👋 Hi, I’m @MuftiAnees
 - 💻I am a Software Quality Assurance Engineer
 - 🌱 I’m currently learning Automation(Primarily Selenium), Web Dev and Python 🐍
