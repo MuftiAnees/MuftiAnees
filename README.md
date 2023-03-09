@@ -7,9 +7,9 @@
 
 ## Softwares and Languages
 <img src='images\Selenium.png' alt='Selenium Logo'>
-<img src='images\photoshop.png' width=15% display:inline alt='Photoshop Logo'>
-<img src='images\illustrator.png' width=15% display:inline alt='Illustrator Logo'>
-<img src='images\figma.png' width=15% display:inline alt='Figma Logo'>
+<img src='images\photoshop.png' width=15% alt='Photoshop Logo'>
+<img src='images\illustrator.png' width=15% height=15%  alt='Illustrator Logo'>
+<img src='images\figma.png' width=15% height=15% alt='Figma Logo'>
 <img src='images\wordpress.png' width=15% alt='Wordpress Logo'>
 <img src='images\premiere.png' width=15% alt='PremierPro Logo'>
 <img src='images\html-5.png' width=15% alt='HTML Logo'>
