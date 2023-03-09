@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Automation(Primarily Selenium), Web Dev and Python 🐍
 - 👀 I’m also interested in coding, graphics and UI/UX Designing with alot of experience in Photoshop, Illustrator, Figma etc.
 - 🌐My Personal website is: https://muftianees.github.io/
-
+<!--
 ## Softwares and Languages
 <img src='images\Selenium.png' alt='Selenium Logo'>
 <img src='images\photoshop.png' width=15% alt='Photoshop Logo'>
@@ -20,6 +20,7 @@
 <img src='images\React.png' width=15% alt='React JS Logo'>
 <img src='images\React.png' width=15% alt='React Native Logo'>
 <img src='images\jira.png' width=15% alt='JIRA Logo'>
+!-->
 
 <!--  ICONS MISSING
  
