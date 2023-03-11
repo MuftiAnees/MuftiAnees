@@ -9,9 +9,9 @@
 - 🌐My Personal website is: https://muftianees.github.io/
 
 ## Tools
-<img align='left' style='padding-right=10px;' src='images\wordpress.png' width=15% alt='Wordpress Logo'/>
-<img align='left' style='padding-right=10px;' src='images\html.png' height=15% width=15% alt='HTML Logo'/>
-<img align='left' style='padding-right=10px;' src='images\css.png' width=15% alt='CSS Logo'/>
+<img align='center' style='padding-right=10px;' src='images\wordpress.png' width=15% alt='Wordpress Logo'/>
+<img align='center' style='padding-right=10px;' src='images\html.png' height=15% width=15% alt='HTML Logo'/>
+<img align='center' style='padding-right=10px;' src='images\css.png' width=15% alt='CSS Logo'/>
 <img align='left' style='padding-right=10px;' src='images\code.png' width=15% alt='Development Logo'/>
 <img align='left' style='padding-right=10px;' src='images\python.png' width=15% alt='Python Logo'/>
 <img align='left' style='padding-right=10px;' src='images\js.png' width=15% alt='JavaScript Logo'/>
