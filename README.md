@@ -10,7 +10,9 @@
 
 ## Tools
 <img src='images\wordpress.png' width=15% alt='Wordpress Logo'>
-<img src='images\html.png' width=15% display="inline" alt='HTML Logo'>
+![html test](images\html.png)
+![css test](images\css.png)
+<img src='images\html.png' width=15% alt='HTML Logo'>
 <img src='images\css.png' width=15% alt='CSS Logo'>
 <img src='images\code.png' width=15% alt='Development Logo'>
 <img src='images\python.png' width=15% alt='Python Logo'>
