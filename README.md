@@ -25,8 +25,8 @@
 <img align='left' style='padding-right=10px;' src='images\latex.png' width=15% alt='Latex Logo'/>
 <img align='left' style='padding-right=10px;' src='images\jmeter.png' width=15% alt='J Meter Logo'/>
 <img align='left' style='padding-right=10px;' src='images\joget.png' width=15% alt='Joget Logo'/>
-<br/>
 
+<!--
 ## Other Skills
 - PC Building 
 - Web Development and Designing
@@ -34,4 +34,4 @@
 - Amazon EBC A plus pages
 - Quality Assurance Engineering
 - OOP
-
+!-->
