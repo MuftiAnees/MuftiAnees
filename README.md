@@ -11,7 +11,7 @@
 ## Tools
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](images\css.png)  |  ![](https://...Ocean.png)
 
 <img src='images\wordpress.png' width=15% alt='Wordpress Logo'>
 <img src='images\html.png' height=15% width=15% alt='HTML Logo'>
