@@ -9,11 +9,7 @@
 - 🌐My Personal website is: https://muftianees.github.io/
 
 ## Tools
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](images\css.png)  |  ![](https://...Ocean.png)
-
-<img src='images\wordpress.png' width=15% alt='Wordpress Logo'>
+<img align='center' src='images\wordpress.png' width=15% alt='Wordpress Logo'>
 <img src='images\html.png' height=15% width=15% alt='HTML Logo'>
 <img src='images\css.png' width=15% alt='CSS Logo'>
 <img src='images\code.png' width=15% alt='Development Logo'>
