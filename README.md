@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning Automation (primarily Selenium), Web Dev and Python 🐍
 - 👀 I’m also interested in coding, graphics and UI/UX Designing with alot of experience in Photoshop, Illustrator, Figma etc.
 - 🌐My Personal website is: https://muftianees.github.io/
-<!--
+
 ## Tools
 <img src='images\wordpress.png' width=15% alt='Wordpress Logo'>
-<img src='images\html.png' width=15% alt='HTML Logo'>
+<img src='images\html.png' width=15% display:"inline" alt='HTML Logo'>
 <img src='images\css.png' width=15% alt='CSS Logo'>
 <img src='images\code.png' width=15% alt='Development Logo'>
 <img src='images\python.png' width=15% alt='Python Logo'>
@@ -34,4 +34,3 @@
 - Amazon EBC A plus pages
 - Quality Assurance Engineering
 - OOP
-!-->
