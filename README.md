@@ -8,9 +8,8 @@
 - 👀 I’m also interested in coding, graphics and UI/UX Designing with alot of experience in Photoshop, Illustrator, Figma etc.
 - 🌐My Personal website is: https://muftianees.github.io/
 
-<div>
-
 ## Tools
+<div>
 <img align='left' style='padding-right=10px;' src='images\wordpress.png' width=15% alt='Wordpress Logo'/>
 <img align='left' style='padding-right=10px;' src='images\html.png' height=15% width=15% alt='HTML Logo'/>
 <img align='left' style='padding-right=10px;' src='images\css.png' width=15% alt='CSS Logo'/>
