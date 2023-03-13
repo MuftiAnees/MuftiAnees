@@ -52,7 +52,7 @@ These are other skills that I have learnt and enjoyed over the years and I hope 
 - Amazon EBC A plus pages
 - Quality Assurance Engineering
 - Basketball 🏀 team member of my Unversity (I play a lot of sports but this is definitely my favourite).
-- Press club member of m University.
+- Press club member of my University.
 
 # Thank you for Visiting my Profile!!
 I hope to work with you soon 😎
