@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 - 👋 Hi, my name is Mufti Anees-Ur-Rahman
 - 💻I am a Software Quality Assurance Engineer
 - 🌱 I’m currently learning Automation (primarily Selenium), Web Dev and Python 🐍
