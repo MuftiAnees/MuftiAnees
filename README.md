@@ -1,7 +1,3 @@
-# This profile is still under construction 🏗...<br>
-
-<img src='images/construction.gif' alt='construction meme gif'>
-
 - 👋 Hi, my name is Mufti Anees-Ur-Rahman
 - 💻I am a Software Quality Assurance Engineer
 - 🌱 I’m currently learning Automation (primarily Selenium), Web Dev and Python 🐍
