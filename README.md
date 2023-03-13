@@ -55,5 +55,5 @@ These are other skills that I have learnt and enjoyed over the years and I hope 
 - Press club member of my University.
 
 # Thank you for Visiting my Profile!!
-> I hope to work with you soon 😎
-— Mona the Octocat
+> Looking forward to working with you soon.
+— Mufti Anees-Ur-Rahman
