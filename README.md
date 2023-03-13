@@ -53,6 +53,7 @@ These are other skills that I have learnt and enjoyed over the years and I hope 
 - Quality Assurance Engineering
 - Basketball 🏀 team member of my Unversity (I play a lot of sports but this is definitely my favourite).
 - Press club member of my University.
+- Video Games 
 
 ## Thank you for Visiting my Profile!!
 > Looking forward to working with you soon.
