@@ -1,5 +1,5 @@
 # A Brief Introduction 👋
-Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a Software Quality Assurance Engineer. With me being in Quality Assurance I am continiously learning automation tools like <span style="color:green">some *blue* Selenium</span>. Selenium and Cypress, with my current focus being on Selenium web driver. I am also interested in Web development.
+Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a Software Quality Assurance Engineer. With me being in Quality Assurance I am continiously learning automation tools like Selenium. Selenium and Cypress, with my current focus being on Selenium web driver. I am also interested in Web development.
 
 I also have alot of experience in Graphics Designing (**9 years+**) as it was my first interest and i did a few jobs in this field aswell. With graphics I have also been doing UX/UI Designing but that started at a later time (**4 years+**).
 
