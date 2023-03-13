@@ -50,10 +50,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Other Skills
 - PC Building 
