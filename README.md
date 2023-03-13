@@ -1,7 +1,7 @@
 # A Brief Introduction 👋
-Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a Software Quality Assurance Engineer. With me being in Quality Assurance I am continiously learning automation tools like Selenium. Selenium and Cypress, with my current focus being on Selenium web driver. I am also interested in Web development.
+Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a Software Quality Assurance Engineer. With me being in Quality Assurance I am continuously learning automation tools like Selenium. Selenium and Cypress, with my current focus being on Selenium web driver. I am also interested in Web development.
 
-I also have alot of experience in Graphics Designing (**9 years+**) as it was my first interest and i did a few jobs in this field aswell. With graphics I have also been doing UX/UI Designing but that started at a later time (**4 years+**).
+I also have a lot of experience in Graphics Designing (**9 years+**) as it was my first interest and i did a few jobs in this field as well. With graphics I have also been doing UX/UI Designing but that started at a later time (**4 years+**).
 
 My personal website is given below if you are interested in looking at my work 🌐:
 ## https://muftianees.github.io/
@@ -45,14 +45,14 @@ My personal website is given below if you are interested in looking at my work �
 ![Jmeter](https://img.shields.io/badge/jmeter-BB2046.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ## Other Skills/ Hobbies
-These are other skills that I have learnt and enjoyed over the years and I hope this list never stops increasing in length
+These are other skills that I have learnt and enjoyed over the years, and I hope this list never stops increasing in length.
 - PC Building 
 - Web Development and Designing
 - UX and UI Designing
 - Amazon EBC A plus pages
 - Quality Assurance Engineering
-- Basketball 🏀 team member of my Unversity (I play a lot of sports but this is definitely my favourite).
-- Press club member of my University.
+- Basketball 🏀 team member of my University (I play a lot of sports, but this is definitely my favourite).
+- Press club member of my university.
 - Video Games 🎮
 
 ## Thank you for Visiting my Profile!!
