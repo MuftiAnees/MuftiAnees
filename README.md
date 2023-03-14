@@ -63,7 +63,7 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
   </tr>
   <tr>
     <td>Quality Assurance Engineering</td>
-    <td>Basketball 🏀 team member of my University <br>(I play a lot of sports, but this is definitely my favourite)</td>
+    <td>Basketball 🏀 team member of my university <br>(I play a lot of sports, but this is definitely my favourite)</td>
   </tr>
   <tr>
     <td>Press club member of my university.</td>
