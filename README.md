@@ -54,7 +54,7 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
     <td <td colspan = "2"><b>Skills</b></td>
   </tr>
   <tr>
-    <td>PC Builing<br></td>
+    <td>PC Building<br></td>
     <td>Web Development and Designing<br></td>
   </tr>
   <tr>
