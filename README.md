@@ -62,8 +62,10 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
   
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| PC Building  | Web Development and Designing  |
+| UX and UI Designing  | Amazon EBC A plus pages  |
+| Quality Assurance Engineering  | Basketball 🏀 team member of my University (I play a lot of sports, but this is definitely my favourite)  |
+| Press club member of my university.  | Video Games 🎮  |
   
 </div>
 <div align="center">
