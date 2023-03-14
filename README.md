@@ -83,12 +83,12 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
     <td>Amazon EBC, A plus pages.</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Quality Assurance Engineering</td>
+    <td>Basketball 🏀 team member of my University (I play a lot of sports, but this is definitely my favourite)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Press club member of my university.</td>
+    <td>Video Games 🎮</td>
   </tr>
 </tbody>
 </table>
