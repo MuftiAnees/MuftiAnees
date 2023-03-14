@@ -60,7 +60,7 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
 - Video Games 🎮
   
   
-| Skills  | Skills |
+| Skills   Skills |
 | ------------- | ------------- |
 | PC Building  | Web Development and Designing  |
 | UX and UI Designing  | Amazon EBC A plus pages  |
