@@ -51,8 +51,7 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
 <table>
 <tbody>
   <tr>
-    <td>Skills</td>
-<!--     <td></td> -->
+    <td <td colspan = "2">Skills</td>
   </tr>
   <tr>
     <td>PC Builing<br></td>
