@@ -61,7 +61,6 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
   
   
 | First Header  | Second Header |
-| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
   
