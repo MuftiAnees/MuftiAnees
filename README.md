@@ -48,6 +48,8 @@ My personal website is given below if you are interested in looking at my work �
 ## Other Skills/ Hobbies
 These are other skills that I have learnt and enjoyed over the years, and I hope this list never stops increasing in length.
   </div>
+  <div align="left">
+
 - PC Building 
 - Web Development and Designing
 - UX and UI Designing
@@ -56,6 +58,7 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
 - Basketball 🏀 team member of my University (I play a lot of sports, but this is definitely my favourite).
 - Press club member of my university.
 - Video Games 🎮
+  </div>
 <div align="center">
 
 ## Thank you for Visiting my Profile!!
