@@ -63,7 +63,5 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
 
 ## Thank you for Visiting my Profile!!
 </div>
-<div align="left">
 > Looking forward to working with you soon.
 — Mufti Anees-Ur-Rahman
-</div>
