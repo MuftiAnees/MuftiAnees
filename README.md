@@ -1,3 +1,4 @@
+<div align="center">
 # A Brief Introduction 👋
 Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a Software Quality Assurance Engineer. With me being in Quality Assurance I am continuously learning automation tools like Selenium. Selenium and Cypress, with my current focus being on Selenium web driver. I am also interested in Web development.
 
@@ -58,3 +59,4 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
 ## Thank you for Visiting my Profile!!
 > Looking forward to working with you soon.
 — Mufti Anees-Ur-Rahman
+</div>
