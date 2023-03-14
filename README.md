@@ -7,7 +7,7 @@ I also have a lot of experience in Graphics Designing (**9 years+**) as it was m
 My personal website is given below if you are interested in looking at my work 🌐:
 ## https://muftianees.github.io/
 
-## 💻 Tools I use:
+## 💻 My Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/selenium-brightgreen.svg?style=for-the-badge&logo=selenium&logoColor=white)
@@ -47,6 +47,7 @@ My personal website is given below if you are interested in looking at my work �
 
 ## Other Skills/ Hobbies
 These are other skills that I have learnt and enjoyed over the years, and I hope this list never stops increasing in length.
+  </div>
 - PC Building 
 - Web Development and Designing
 - UX and UI Designing
@@ -55,6 +56,7 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
 - Basketball 🏀 team member of my University (I play a lot of sports, but this is definitely my favourite).
 - Press club member of my university.
 - Video Games 🎮
+<div align="center">
 
 ## Thank you for Visiting my Profile!!
 > Looking forward to working with you soon.
