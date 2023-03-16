@@ -1,6 +1,6 @@
 <div align="center">
 <h1>A Brief Introduction 👋</h1>
-Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a <b>Software Quality Assurance Engineer</b>. With me being in Quality Assurance I am continuously learning automation tools like Selenium and Cypress, with my current focus being on Selenium web driver. I am also interested in Web development, and know how to use HTML, CSS and basic Javascript.
+Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a <b>Software Quality Assurance Engineer</b>. With me being in Quality Assurance I am continuously learning automation tools like Selenium and Cypress, with my current focus being on Selenium web driver. I am also interested in Web development, and know how to use HTML, CSS and basic JavaScript.
 
 I also have a lot of experience in Graphics Designing (**9 years+**) as it was my first interest and i did a few jobs in this field as well. With graphics I have also been doing jobs encompassing UX/UI Designing and the total experience of mine in that field is about **4 years+**.
 
