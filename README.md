@@ -2,7 +2,7 @@
 <h1>A Brief Introduction 👋</h1>
 Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a Software Quality Assurance Engineer. With me being in Quality Assurance I am continuously learning automation tools like Selenium and Cypress, with my current focus being on Selenium web driver. I am also interested in Web development.
 
-I also have a lot of experience in Graphics Designing (**9 years+**) as it was my first interest and i did a few jobs in this field as well. With graphics I have also been doing UX/UI Designing but that started at a later time (**4 years+**).
+I also have a lot of experience in Graphics Designing (**9 years+**) as it was my first interest and i did a few jobs in this field as well. With graphics I have also been doing jobs encompassing UX/UI Designing and the total experience of mine in that field is about **4 years+**.
 
 My personal website is given below if you are interested in looking at my work 🌐:
 ## https://muftianees.github.io/
