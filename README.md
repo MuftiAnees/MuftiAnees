@@ -70,6 +70,10 @@ These are other skills that I have learnt and enjoyed over the years, and I hope
     <td>Press club member of my university.</td>
     <td>Video Games 🎮</td>
   </tr>
+  <tr>
+    <td>Graphics Designing.</td>
+    <td>Digital Art</td>
+  </tr>
 </tbody>
 </table>
   
