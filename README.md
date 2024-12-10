@@ -1,11 +1,10 @@
 <div align="center">
 <h1>A Brief Introduction 👋</h1>
-Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a <b>Software Quality Assurance Engineer</b>. With me being in Quality Assurance I am continuously learning automation tools like Selenium and Cypress, with my current focus being on Selenium web driver. I am also interested in Web development, and know how to use HTML, CSS and basic JavaScript.
+Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a <b>Software Test Engineer</b>. I am using Selenium as my main test automation tool while I also create test cases, bug reports, basically all that stuff that developers do not like, but hey thats my job 😅
 
-I also have a lot of experience in Graphics Designing (**9 years+**) as it was my first interest and i did a few jobs in this field as well. With graphics I have also been doing jobs encompassing UX/UI Designing and the total experience of mine in that field is about **6 years+**.
+I also have experience with project tracking tools such as JIRA as I have been responsible to create and manage sprints in the software for my team to follow and work on.
 
-My personal website is given below if you are interested in contacting me or just looking at my work 🌐:
-## https://muftianees.github.io/
+I also have experience in UX/UI Designing using Figma and Framer as my main tools to bring my ideas to life.
 
 I am available for remote and part-time work, while also being available for projects. So feel free to contact me!
 ## 💻 My Tech Stack:
