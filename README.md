@@ -1,12 +1,10 @@
 <div align="center">
 <h1>A Brief Introduction 👋</h1>
-Hello! my name is Mufti Anees-Ur-Rahman. I am currently employed as a <b>Software Test Engineer</b>. I am using Selenium as my main test automation tool while I also create test cases, bug reports, basically all that stuff that developers do not like, but hey thats my job 😅
+I'm Mufti Anees-Ur-Rahman, a Software Test Engineer with a passion for crafting high-quality software. I excel in automating tests using Selenium, ensuring robust and reliable applications.
 
-I also have experience with project tracking tools such as JIRA as I have been responsible to create and manage sprints in the software for my team to follow and work on.
+Beyond testing, I'm a strong advocate for user-centric design and bring my ideas to life using design tools like Figma and Framer. I'm proficient in project management methodologies, having successfully managed sprints and tracked progress using tools like Jira.
 
-I also have experience in UX/UI Designing using Figma and Framer as my main tools to bring my ideas to life.
-
-I am available for remote and part-time work, while also being available for projects. So feel free to contact me!
+I'm eager to contribute to impactful projects and am available for remote and part-time work. Feel free to connect!
 ## 💻 My Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
