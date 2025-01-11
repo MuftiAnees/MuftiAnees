@@ -10,7 +10,7 @@ I am available for remote and part-time work, while also being available for pro
 ## 💻 My Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C#-3670A0?style=for-the-badge&logo=C#&logoColor=ffdd54)
+![Csharp](https://img.shields.io/badge/Csharp-3670A0?style=for-the-badge&logo=Csharp&logoColor=ffdd54)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![Selenium](https://img.shields.io/badge/selenium-brightgreen.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
